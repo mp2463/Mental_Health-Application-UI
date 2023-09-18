@@ -2,6 +2,12 @@
 
 Created a Mental Health App UI using Flutter.
 
+This app contains services like- exercises, categories, consltancy, etc. which will help to enhance your mental health.
+
+![image](https://github.com/mp2463/Mental_Health-Application-UI/assets/103843419/a5c649ca-9db0-47f2-a0a5-6d9ca5cefb04)
+![image](https://github.com/mp2463/Mental_Health-Application-UI/assets/103843419/dbf2f3be-3898-4898-8286-45a67f7472bc)
+
+
 This repository can be a helpful reference for the following:
 
 - BLoC
