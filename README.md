@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Mental_Health-Application-UI
 
 This application offers a range of features, including mood tracking, therapy resources, meditation exercises, and access to mental health professionals, empowering users to better understand and manage their mental health in a convenient and accessible way.
+=======
+# Mental Health App UI
+>>>>>>> master
 
 Created a Mental Health App UI using Flutter.
 
@@ -29,3 +33,7 @@ The design is taken from Dribble.
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
